@@ -1,2 +1,1 @@
-# cyberpunk
- page transitions with nextjs and framer motion
+Page transition with nextjs and framer motion
